@@ -44,12 +44,12 @@ async def cbstart(_, query: CallbackQuery):
                     "🌐 Terms & Condition", callback_data="cbinfo")
             ], [
                 InlineKeyboardButton(
-                    "💬 Group", url="https://t.me/VeezSupportGroup"),
+                    "💬 Group", url="https://t.me/moviesgrammm"),
                 InlineKeyboardButton(
-                    "📣 Channel", url="https://t.me/levinachannel")
+                    "📣 Channel", url="https://t.me/chavi1234movies")
             ], [
                 InlineKeyboardButton(
-                    "👩🏻‍💻 Developer", url="https://t.me/dlwrml")
+                    "👩🏻‍💻 Developer", url="https://t.me/chhavi_grewal12")
             ], [
                 InlineKeyboardButton(
                     "📚 All Command List", callback_data="cblist")
